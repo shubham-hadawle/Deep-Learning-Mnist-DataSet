@@ -1,6 +1,2 @@
-# PYTHON AND DEEP LEARNING
-<br>I made this project during a 7 Days Bootcamp.
-<br>I got to have hands on experience on:
-<li>Python
-<li>Tensorflow
-<li>Deep Learning
+# PYTHON AND DEEP LEARNING - Working on Prediction Model for Mnist DataSet
+<br>Importing Mnist DataSet and building a model to recognise handwritten text.
